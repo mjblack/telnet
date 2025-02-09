@@ -16,7 +16,7 @@ Telnet shard that provides server and client classes. It provides a parser class
 
 ## Usage
 
-Please see [examples/simple_server.cr](/examples/simple_server.cr) for a more detailed example that showcases telnet command and subnegotiation handling.
+Please see [examples/simple_server.cr](https://github.com/mjblack/telnet/blob/master/examples/simple_server.cr) for a more detailed example that showcases telnet command and subnegotiation handling.
 
 ```crystal
 require "telnet"
