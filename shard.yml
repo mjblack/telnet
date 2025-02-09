@@ -1,0 +1,13 @@
+name: telnet
+version: 0.5.0
+
+authors:
+  - Matthew J. Black <mjblack@gmail.com>
+
+crystal: '>= 1.15.0'
+
+license: MIT
+
+development_dependencies:
+  ameba:
+    github: crystal-ameba/ameba
